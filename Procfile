@@ -1,1 +1,1 @@
-web: python app-test.py
+web: python bottle-app.py
