@@ -3,7 +3,7 @@ import os
 
 @route('/')
 def index():
-  return "Hello bottle"
+  return "<h1>Hello bottle</h1>"
 
 @route('/hello')
 def hello():
